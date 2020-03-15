@@ -4,3 +4,4 @@ def is_multiple(n, m):
     else:
         return False
     
+print(is_multiple(24, 4))
